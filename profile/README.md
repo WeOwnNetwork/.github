@@ -14,18 +14,17 @@ We believe in:
 
 ## team composition:
 - Jason and Tyler Younker 🇺🇸 : Co-founders and CEO / CPO of the initiative respectively.
-- Dhruv Malik 🇮🇳/🇫🇷: Freelance fullstack vibe coder / Developer-relations and  
+- Dhruv Malik 🇮🇳/🇫🇷: Freelance fullstack web3 engineer/ LLMops and cybersecurity engineer.
 - Bertrand Juglas 🇫🇷: web3 and Devops expert.
-- Mike 🇺🇸: Sales expert and 
-- IAmLotus
-- 
-
+- Mike 🇺🇸: Sales expert.
+- IAmLotus🇺🇸: Freelance contributor and avid participant
+- Roman🇺🇸: Devops / Forward deployed engineer and Avid AI researcher.  
 
 ## Projects onboarded 
-TODO
-
-
+- [Ai](https://github.com/WeOwnNetwork/ai): Helm charts template generator that orchestrates the major LLM inference / agents and agentic workflows.
+- [Capital documentation](https://github.com/WeOwnNetwork/capital): Defines the documentation for the weOwn capital (bylaws and other documentation etc).
 
 ## Onboarding workflow / tools used :
-TODO: 
+: 
+- CMS: [WordPress] and related ecosystem :  [Marketing automations](https://fluentcrm.com) , [AnythingLLM](https://anythingllm.com) etc.
 
