@@ -18,7 +18,7 @@ We believe in:
 - Bertrand Juglas 🇫🇷: web3 and Devops expert.
 - Mike 🇺🇸: Sales expert.
 - IAmLotus🇺🇸: Freelance contributor and avid participant
-- Roman🇺🇸: Devops / Forward deployed engineer and Avid AI researcher.  
+- Roman🇺🇸: Platform & AI Engineer.  
 
 ## Projects onboarded 
 - [Ai](https://github.com/WeOwnNetwork/ai): Helm charts template generator that orchestrates the major LLM inference / agents and agentic workflows.
