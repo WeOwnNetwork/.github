@@ -21,7 +21,7 @@ We believe in:
 - Roman🇺🇸: Platform & AI Engineer.  
 
 ## Projects onboarded 
-- [Ai](https://github.com/WeOwnNetwork/ai): Helm charts template generator that orchestrates the major LLM inference / agents and agentic workflows.
+- [ai](https://github.com/WeOwnNetwork/ai): Helm charts and deployment scripts that make up the infrastructure powering the platforms within the We Own ecosystem, including LLM inference and agentic workflows.
 - [Capital documentation](https://github.com/WeOwnNetwork/capital): Defines the documentation for the weOwn capital (bylaws and other documentation etc).
 
 ## Onboarding workflow / tools used :
