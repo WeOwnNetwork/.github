@@ -1,7 +1,7 @@
 ## Welcome to the WeOwnNetwork organisation repository 👋
 
 
-This is the community initiative by @yonks familt ( i.e @YonksTEAM,Tyler) to create an web3 native AI agents community that serves the verticals of across the ecosystem. 
+This is the community initiative by @yonks family ( i.e @YonksTEAM,Tyler) to create an web3 native AI agents community that serves the verticals of across the ecosystem. 
 
 
 We believe in:
@@ -23,8 +23,11 @@ We believe in:
 ## Projects onboarded 
 - [ai](https://github.com/WeOwnNetwork/ai): Helm charts and deployment scripts that make up the infrastructure powering the platforms within the We Own ecosystem, including LLM inference and agentic workflows.
 - [Capital documentation](https://github.com/WeOwnNetwork/capital): Defines the documentation for the weOwn capital (bylaws and other documentation etc).
+- [jAIMSNet](https://github.com/jAIMSnet/jaimsnet): open source AI management system for developers to run SOTA models with full sovreignity and significant less costs than the current major providers ( anthropic,gemini, openrouter .....).   
+
 
 ## Onboarding workflow / tools used :
 : 
-- CMS: [WordPress] and related ecosystem :  [Marketing automations](https://fluentcrm.com) , [AnythingLLM](https://anythingllm.com) etc.
+- CMS: [WordPress] and related ecosystem :  [Marketing automations](https://fluentcrm.com) ,
+- Open source RAG application framework: [AnythingLLM](https://anythingllm.com) etc.
 
